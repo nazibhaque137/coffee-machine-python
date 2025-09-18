@@ -23,7 +23,10 @@ Built as part of a beginner project to practice loops, conditionals, functions, 
    ```bash
    git clone https://github.com/<your-username>/coffee-machine-python.git
    cd coffee-machine-python
-2. Run the program:
-   ```bash
-   python coffee_machine.py
-(use python3 if python points to Python 2)
+python coffee_machine.py
+python coffee_machine.py
+
+---
+
+👉 Do you want me to also add a **`.gitignore`** file (to keep your repo clean from `__pycache__` and other junk), or keep it minimal for now?
+
